@@ -1,0 +1,135 @@
+ <!--SERVICIOS-->
+<div class="content_rubros">
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-12 col-sm-6 col-xs-3">
+            <div class="tit_seccion text-center">
+            <span>CATEGORÍAS</span><br/>DE SERVICIOS EN LOS QUE PODEMOS AYUDARTE
+            </div>
+            </div>
+        </div>
+    
+        <div class="row">
+
+            <div class="rubro text-center">
+            <div class="col-md-4 col-sm-2 col-xs-1">
+            <div class="ico"><img src="img/18_iluminacion casa.png" /></div>
+            <div class="nombre text-center">ELECTRICIDAD</div>
+            <div class="desc">Pequeños trabajos de electricidad.</div>
+            <div class="desc">Instalación y cambio de luminaria</div>
+            <div class="desc">Instalación o cambio de extractor, cocina, horno, anafe</div>
+            <div class="desc">Instalación y cambio de panel calefactor, ventilador, termotanque.</div>
+            </div>
+            </div>
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/20_bano.png" /></div>
+            <div class="nombre text-center">PLOMERIA</div>
+            <div class="desc">Pequeños trabajos de plomeria</div>
+            <div class="desc">Instalación o cambio, limpieza y diagnóstico para tu cocina</div>
+            <div class="desc">Instalaron o cambio, limpieza y diagnóstico para tu baño</div>
+            <div class="desc">Instalaron o cambio, limpieza y diagnóstico para tu baño</div>
+            </div>
+            </div>
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/22_gas casa.png" /></div>
+            <div class="nombre text-center">GASISTA</div>
+            <div class="desc">Instalación o cambio, limpieza y diagnóstico para tu hogar</div>
+            <div class="desc">Instalación o cambio de termotanque, calefactor, rejillas de ventilación, calefon</div>
+            </div>
+            </div>
+
+        </div>    
+
+        <div class="row">
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/26_pisos.png" /></div>
+            <div class="nombre text-center">ALBAÑILERIA</div>
+            <div class="desc">Construcción, demolición y reparación de paredes, revoque y pisos </div>
+            </div>
+            </div>
+    
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/03_pintura_final.png" /></div>
+            <div class="nombre text-center">PINTURA</div>
+            <div class="desc">Interior, Exterior, Impermeabilización, visita y presupuesto.</div>
+            </div>
+            </div>
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/27_Durlock.png" /></div>
+            <div class="nombre text-center">DURLOCK®</div>
+            <div class="desc">Divisiones, cielorrasos, revestimiento, visita y presupuesto.</div>
+            </div>
+            </div>
+            
+        </div>
+    
+        <div class="row">
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/08_seguridad.png" /></div>
+            <div class="nombre text-center">SEGURIDAD PARA TU HOGAR</div>
+            <div class="desc">Instalación, diagnóstico y presupuesto de sistemas de alarma </div>
+            </div>
+            </div>
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/24_AA.png"/></div>
+            <div class="nombre text-center">AIRE ACONDICIONADO SPLIT</div>
+            <div class="desc">Instalación, desinstalación, reparación de perdida, recarga de gas,mantenimiento y limpieza de equipos de climatizacion Split.</div>
+            </div>
+            </div>
+    
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico img-circle"><img src="img/10_herreria-01 (1).png"/></div>
+            <div class="nombre text-center">HERRERIA</div>
+            <div class="desc">Confección, Instalación y presupuestos de herrería</div>
+            </div>
+            </div>  
+
+        </div>
+        
+        <div class="row">
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/11_kitchen.png" /></div>
+            <div class="nombre text-center">AMOBLAMIENTO</div>
+            <div class="desc">Presupuesto de mobiliario para tu hogar, bajo mesada. alacenas, Placard,  TV</div>
+            </div>
+            </div>
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/28_varios.png"/></div>
+            <div class="nombre text-center">PEQUEÑOS TRABAJOS PARA TU HOGAR</div>
+            <div class="desc text-center">Instalación de soporte para TV, colocación de barrales de cortinas y cambio de cintas de persianas, colocación de picaportes, pasadores y cerraduras, instalación y desinstalación de ventiladores de techo</div>
+            </div>
+            </div>
+
+            <div class="rubro text-center">
+            <div class="col-md-4">
+            <div class="ico"><img src="img/13_Profesionales.png" /></div>
+            <div class="nombre text-center">INFORME DE MANTENIMIENTO EDILICIO PREVENTIVO </div>
+            <div class="desc">Informe de mantenimiento edilicio preventivo </div>
+            </div>
+            </div>
+
+        </div>
+    
+    </div>  
+
+</div>
